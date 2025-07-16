@@ -4,7 +4,7 @@ This repository has been used for the presentation **Streamlining Local App Prev
 - Folder `project-local-endpoint` contains a project that has been generated with option virtual endpoints disabled.
 
   During the presentation we used this app to showcase the conversion to virtual endpoints.
-- Folder `virtual-html-project` contains a project that has been generated with option virtual endpoints enabled.
+- Folder `project-virtual-endpoint` contains a project that has been generated with option virtual endpoints enabled.
 - The presentation itself can be found in the `resources` folder.
 
 ## Helpful liks ##
