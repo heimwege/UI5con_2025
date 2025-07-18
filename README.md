@@ -5,7 +5,7 @@ This repository has been used for the presentation **Streamlining Local App Prev
 
   During the presentation we used this app to showcase the conversion to virtual endpoints.
 - Folder `project-virtual-endpoint` contains a project that has been generated with option virtual endpoints enabled.
-- The presentation itself can be found in the `resources` folder.
+- The [presentation](./resources/UI5con_2025_preview middleware.pdf) itself can be found in the `resources` folder.
 
 ## Helpful liks ##
 - npmjs package [@sap-ux/ux-ui5-tooling](https://www.npmjs.com/package/@sap/ux-ui5-tooling)
